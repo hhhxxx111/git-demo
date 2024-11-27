@@ -10,6 +10,7 @@ int main(){
     
     int a = 1,b = 2;
     int c = 10;
+    int d = 10000;
     printf("hello----%d %d\n",a+b,c);
     
     return 1;
